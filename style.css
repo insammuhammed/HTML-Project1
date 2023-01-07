@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-size: large;
+}
+span{
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+/*section first*/
+
+.first {
+  border: 1px solid black;
+  width: 100%;
+}
+.sub1 {
+  padding-left: 10px;
+  padding-bottom: 5px;
+}
+h2 {
+  text-decoration: underline;
+}
+
+/*section second*/
+
+.second{
+    padding: 15px;
+}
+img{
+    width: 35%;
+    height: 31%;
+}
+
+/*section third*/
+
+.third{
+    padding: 15px;
+}
